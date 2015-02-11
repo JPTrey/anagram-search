@@ -1,0 +1,2 @@
+Compile Instructions:
+gcc -Wall -g word_list.c dictionary.c anagrams.c -o anagrams
